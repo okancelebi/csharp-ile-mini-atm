@@ -1,0 +1,8 @@
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile mini atm\csharp ile mini atm\bin\Debug\csharp ile mini atm.exe.config
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile mini atm\csharp ile mini atm\bin\Debug\csharp ile mini atm.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile mini atm\csharp ile mini atm\bin\Debug\csharp ile mini atm.pdb
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile mini atm\csharp ile mini atm\obj\Debug\csharp ile mini atm.csproj.AssemblyReference.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile mini atm\csharp ile mini atm\obj\Debug\csharp ile mini atm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile mini atm\csharp ile mini atm\obj\Debug\csharp ile mini atm.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile mini atm\csharp ile mini atm\obj\Debug\csharp ile mini atm.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile mini atm\csharp ile mini atm\obj\Debug\csharp ile mini atm.pdb
